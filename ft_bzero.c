@@ -3,9 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_bzero.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: juliensarda <marvin@42.fr>                 +#+  +:+       +#+        */
+/*   By: juliensarda <juliensarda@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/26 10:31:11 by juliensarda       #+#    #+#             */
-/*   Updated: 2023/09/26 10:32:01 by juliensarda      ###   ########.fr       */
+/*   Created: 2023/09/26 11:08:48 by juliensarda       #+#    #+#             */
+/*   Updated: 2023/09/26 11:08:51 by juliensarda      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
+
+void	ft_bzero(void *s, size_t n)
+{
+	ft_memset(s, '\0', n);
+}

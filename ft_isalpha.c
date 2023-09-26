@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isalpha.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: juliensarda <marvin@42.fr>                 +#+  +:+       +#+        */
+/*   By: juliensarda <juliensarda@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/22 09:41:41 by juliensarda       #+#    #+#             */
-/*   Updated: 2023/09/22 09:41:47 by juliensarda      ###   ########.fr       */
+/*   Created: 2023/09/26 11:09:27 by juliensarda       #+#    #+#             */
+/*   Updated: 2023/09/26 11:09:29 by juliensarda      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

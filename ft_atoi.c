@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: juliensarda <marvin@42.fr>                 +#+  +:+       +#+        */
+/*   By: juliensarda <juliensarda@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/09/22 11:39:03 by juliensarda       #+#    #+#             */
-/*   Updated: 2023/09/22 11:39:06 by juliensarda      ###   ########.fr       */
+/*   Created: 2023/09/26 11:09:05 by juliensarda       #+#    #+#             */
+/*   Updated: 2023/09/26 11:09:08 by juliensarda      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
