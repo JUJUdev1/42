@@ -6,7 +6,7 @@
 /*   By: juliensarda <juliensarda@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/19 21:25:46 by juliensarda       #+#    #+#             */
-/*   Updated: 2023/09/26 11:11:44 by juliensarda      ###   ########.fr       */
+/*   Updated: 2023/09/27 11:29:16 by juliensarda      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -51,5 +51,6 @@ int		ft_strcmp(char *s1, char *s2);
 int		ft_strncmp(char *s1, char *s2, int len);
 void	*ft_memset(void *dest, int value, size_t len);
 int		ft_atoi(char *str);
+char	*ft_strchr(char *s, int c);
 
 #endif

@@ -6,7 +6,8 @@
 /*   By: juliensarda <juliensarda@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/26 10:36:59 by juliensarda       #+#    #+#             */
-/*   Updated: 2023/09/26 11:09:54 by juliensarda      ###   ########.fr       */
+/*   Updated: 2023/09/27 11:28:44 by juliensarda      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+ft_memchr();
